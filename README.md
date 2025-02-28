@@ -16,7 +16,7 @@ A menos que seja especificado o contrário, os blocos de código mostrados nesse
 
 # Instalando Sistema Operacional
 
-As etapas de [Personalização do Sistema](#per_sist) pressupõem que o sistema operacional instalado é o [Endeavour OS](endeavouros.com) com [Gnome Desktop](https://www.gnome.org). Essas etapas _podem_ funcionar com instalações diferentes, porém isso foge do escopo e não será explicado aqui. Instale o sistema operacional conforme descrito nos passos a seguir e depois opte ou não pelas [Configurações Opcionais](#rec_conf) e [Aplicativos](#aplicativos).
+As etapas de [Personalização do Sistema](#per_sist) pressupõem que o sistema operacional instalado é o [Endeavour OS](https://endeavouros.com) com [Gnome Desktop](https://www.gnome.org). Essas etapas _podem_ funcionar com instalações diferentes, porém isso foge do escopo e não será explicado aqui. Instale o sistema operacional conforme descrito nos passos a seguir e depois opte ou não pelas [Configurações Opcionais](#rec_conf) e [Aplicativos](#aplicativos).
 
 1. Baixe o _.iso_ no site [Endeavour OS](endeavouros.com) e crie uma mídia de instalação. Recomenda-se que a autenticidade do arquivo seja verificada através da [assinatura GPG](https://www.gnupg.org/gph/en/manual/x135.html) conforme instruções do site.
 
