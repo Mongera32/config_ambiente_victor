@@ -1,8 +1,8 @@
 # Introdução
 
-Use este guia para replicar todas as configurações básicas do ambiente do [Autor](https://github.com/Mongera32)
+Use este guia para replicar todas as configurações básicas do ambiente do [Autor](https://github.com/Mongera32).
 
-Este guia pressupõe conhecimendo básico sobre **instalação de sistemas operacionais** e **linguagens shell usadas no Linux**
+Este guia pressupõe conhecimendo básico sobre **instalação de sistemas operacionais** e **linguagens shell usadas no Linux**.
 
 A menos que seja especificado o contrário, os blocos de código mostrados nesse guia são comandos **shell** que funcionam tanto com o **Bash** quanto com o **ZSH**.
 
