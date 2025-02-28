@@ -102,6 +102,7 @@ O uso ou não dos seguintes aplicativos varia conforme preferência do usuário 
 | Steam                                   | sudo pacman -S steam                      |
 | Opera Browser                           | yay -S opera                              |
 | Okular                                  | sudo pacman -S okular                     |
+| Remmina                                 | sudo pacman -S remmina                    |
 
 
 ## Miscelânea
