@@ -101,7 +101,7 @@ O uso ou não dos seguintes aplicativos varia conforme preferência do usuário 
 | VS Code (release da Microsoft)          | yay -S visual-studio-code-bin             |
 | Steam                                   | sudo pacman -S Steam                      |
 | Opera Browser                           | yay -S opera                              |
-| Okular                                  | sudo pacamn -S okular                     |
+| Okular                                  | sudo pacman -S okular                     |
 
 
 ## Miscelânea
