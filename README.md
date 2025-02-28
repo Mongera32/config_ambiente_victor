@@ -95,14 +95,14 @@ yay -S gnome-shell-extension-dash-to-dock
 
 O uso ou não dos seguintes aplicativos varia conforme preferência do usuário e workflow. 
 
-| Nome do app                             | Comando para instalação com pacman        |
-| ---                                     | ---                                       |
-| Slack Desktop                           | yay -S slack-desktop                      |
-| VS Code (release da Microsoft)          | yay -S visual-studio-code-bin             |
-| Steam                                   | sudo pacman -S steam                      |
-| Opera Browser                           | yay -S opera                              |
-| Okular                                  | sudo pacman -S okular                     |
-| Remmina                                 | sudo pacman -S remmina                    |
+| Nome do app                             | Comando para instalação com pacman              |
+| ---                                     | ---                                             |
+| Slack Desktop                           | yay -S slack-desktop                            |
+| VS Code (release da Microsoft)          | yay -S visual-studio-code-bin                   |
+| Steam                                   | sudo pacman -S steam                            |
+| Opera Browser                           | yay -S opera                                    |
+| Okular                                  | sudo pacman -S okular                           |
+| Remmina (com protocolo RPD)             | sudo pacman -S freerdp ; sudo pacman -S remmina |
 
 
 ## Miscelânea
