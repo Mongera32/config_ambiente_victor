@@ -1,6 +1,6 @@
 # Introdução
 
-Use este guia para replicar todas as configurações básicas do ambiente do Victor.
+Use este guia para replicar todas as configurações básicas do ambiente do [Autor](https://github.com/Mongera32)
 
 Este guia pressupõe conhecimendo básico sobre **instalação de sistemas operacionais** e **linguagens shell usadas no Linux**
 
