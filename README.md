@@ -35,7 +35,7 @@ As instalações a seguir são altamente recomendadas para deixar o _Desktop_ ma
 
 ### ZSH, oh-my-szh e plugins <a id="zsh_conf"></a>
 
-O shell [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) é muito personalizável e seus plugins tornam o uso do terminal muito mais fácil. O _framework_ [oh-my-zsh](https://ohmyz.sh)
+O shell [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) é muito personalizável e seus plugins tornam o uso do terminal muito mais fácil. O _framework_ [oh-my-zsh](https://ohmyz.sh) é útil para gerenciamento de plugins e torna a interface do terminal mais estética.
 
 O **Endeavour OS** não vem com o **zsh** instalado. Instale com o comando:
 ```
@@ -45,7 +45,7 @@ Mude o shell padrão para o **zsh** com o comando:
 ```
 chsh -s "$(which zsh)" "$(whoami)"
 ```
-Por fim, instale o _framework_ [oh-my-zsh](https://ohmyz.sh):
+Por fim, instale o [oh-my-zsh](https://ohmyz.sh):
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
