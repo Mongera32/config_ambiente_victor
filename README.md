@@ -73,8 +73,6 @@ awk '/^plugins=\(/ {sub(/\)$/, " zsh-syntax-highlighting)")} 1' ~/.zshrc > tmpfi
 
 ### Plugins do Gnome Desktop <a id="gnome_plugins"></a>
 
-Os
-
 #### Pop Shell
 
 _Tiling Window Manager_ com interface agradável e eficaz. Pode ser instalado usando do _Arch User Repository_ (AUR) com o comando:
