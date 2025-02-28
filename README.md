@@ -77,7 +77,7 @@ Os
 
 #### Pop Shell
 
-Ótimo _Tiling Window Manager_ com interface agradável e eficaz. Pode ser instalado usando do _Arch User Repository_ (AUR) com o comando:
+_Tiling Window Manager_ com interface agradável e eficaz. Pode ser instalado usando do _Arch User Repository_ (AUR) com o comando:
 ```
 yay -S gnome-shell-extension-pop-shell 
 ```
