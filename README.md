@@ -99,7 +99,7 @@ O uso ou não dos seguintes aplicativos varia conforme preferência do usuário 
 | ---                                     | ---                                       |
 | Slack Desktop                           | yay -S slack-desktop                      |
 | VS Code (release da Microsoft)          | yay -S visual-studio-code-bin             |
-| Steam                                   | sudo pacman -S Steam                      |
+| Steam                                   | sudo pacman -S steam                      |
 | Opera Browser                           | yay -S opera                              |
 | Okular                                  | sudo pacman -S okular                     |
 
