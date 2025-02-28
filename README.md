@@ -75,7 +75,7 @@ awk '/^plugins=\(/ {sub(/\)$/, " zsh-syntax-highlighting)")} 1' ~/.zshrc > tmpfi
 
 #### Pop Shell
 
-_Tiling Window Manager_ com interface agradável e eficaz. Pode ser instalado usando do _Arch User Repository_ (AUR) com o comando:
+_Tiling Window Manager_ com interface agradável e eficaz. Pode ser instalado do _Arch User Repository_ (AUR) com o comando:
 ```
 yay -S gnome-shell-extension-pop-shell 
 ```
@@ -84,7 +84,7 @@ yay -S gnome-shell-extension-pop-shell
 
 #### Dash to Dock <a id="dash-to-dock"></a>
 
-Permite grande flexibilidade para configurar o Dock do Gnome. Pode ser instalado usando do _Arch User Repository_ (AUR) com o comando:
+Permite grande flexibilidade para configurar o Dock do Gnome. Pode ser instalado do _Arch User Repository_ (AUR) com o comando:
 
 ```
 yay -S gnome-shell-extension-dash-to-dock 
