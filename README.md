@@ -58,15 +58,16 @@ O plugin [git](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.pl
 
 _fzf_ melhora o recurso de busca do shell ao usar _ctrl + R_ . Esse plugin já vem instalado com o [oh-my-zsh](https://ohmyz.sh), bastando ativá-lo editando o arquivo _~/.zshrc_ ou usando o seguinte comando no terminal para editá-lo automaticamente:
 ```
-awk '/^plugins=\(/ {sub(/\)$/, " fzf)")} 1' .zshrc > tmpfile && mv tmpfile .zshrc 
+awk '/^plugins=\(/ {sub(/\)$/, " fzf)")} 1' ~/.zshrc > tmpfile && mv tmpfile ~/.zshrc 
 ```
 É necessário reiniciar o terminal para que essa configuração faça efeito
 
 #### Syntax Highlighting
 
-_Syntax Highlinghting_ é um plugin que destaca a sintaxe dos comandos digitados no terminal. Para instalar, use o seguinte comando para clonar o repositório no diretório de plugins do _oh_my_zsh_ e ativá-lo no arquivo _~/.zshrc_:
+_Syntax Highlinghting_ é um plugin que destaca a sintaxe dos comandos digitados no terminal. Use o seguinte comando para clonar o repositório no diretório de plugins do _oh_my_zsh_ e ativá-lo no arquivo _~/.zshrc_:
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+awk '/^plugins=\(/ {sub(/\)$/, " zsh-syntax-highlighting)")} 1' ~/.zshrc > tmpfile && mv tmpfile ~/.zshrc 
 ```
 É necessário reiniciar o terminal para que essa configuração faça efeito
 
