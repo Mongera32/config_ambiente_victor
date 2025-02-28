@@ -10,7 +10,7 @@ A menos que seja especificado o contrário, os blocos de código mostrados nesse
 
 | Componente | Software usado | Observação | Plugins |
 |---|---|---|---|
-| Sistema Operacional | [Endeavour OS](endeavouros.com) Mercury (2025.02.08) | - | - |
+| Sistema Operacional | [Endeavour OS](https://endeavouros.com) Mercury (2025.02.08) | - | - |
 | Shell | [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) | _framework_ [oh-my-zsh](https://ohmyz.sh) usado para gerenciamento de plugins | [git](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh); [fzf](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh); [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
 | Desktop | [Gnome Desktop](https://www.gnome.org) | - | [Dash to Dock](https://micheleg.github.io/dash-to-dock/); [Pop Shell](https://github.com/pop-os/shell) | 
 
