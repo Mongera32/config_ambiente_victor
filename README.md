@@ -118,7 +118,7 @@ _**identificação**_ _**ponto-de-montagem**_ _**tipo**_ defaults 0 0
 
 
 
-### não mostrar lixeira e partições no Dock
+### Não mostrar lixeira e partições no Dock
 
 As configurações a seguir exigem que antes seja feita a [instalação](#dash-to-dock) da extensão [Dash to Dock](https://micheleg.github.io/dash-to-dock/).
 
