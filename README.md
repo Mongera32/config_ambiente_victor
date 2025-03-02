@@ -4,7 +4,7 @@ Use este guia para replicar todas as configurações básicas do ambiente do [Au
 
 Este guia pressupõe conhecimendo básico sobre **instalação de sistemas operacionais** e **linguagens shell usadas no Linux**.
 
-A menos que seja especificado o contrário, os blocos de código mostrados nesse guia são comandos **shell** que funcionam tanto com o **Bash** quanto com o **ZSH**.
+A menos que seja especificado o contrário, os blocos de código mostrados neste guia são comandos **shell** que funcionam tanto com o **Bash** quanto com o **ZSH**.
 
 ## Sobre o Ambiente
 
