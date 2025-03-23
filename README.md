@@ -14,7 +14,7 @@ A menos que seja especificado o contrário, os blocos de código mostrados neste
 | Shell | [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) | _framework_ [oh-my-zsh](https://ohmyz.sh) usado para gerenciamento de plugins | [git](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh); [fzf](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/git.plugin.zsh); [Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
 | Desktop | [Gnome Desktop](https://www.gnome.org) | - | [Dash to Dock](https://micheleg.github.io/dash-to-dock/); [Pop Shell](https://github.com/pop-os/shell) | 
 
-# Instalando Sistema Operacional
+# Instalando o Sistema Operacional
 
 As etapas de [Personalização do Sistema](#per_sis) pressupõem que o sistema operacional instalado é o [Endeavour OS](https://endeavouros.com) com [Gnome Desktop](https://www.gnome.org). Estas etapas _podem_ funcionar com instalações diferentes, porém isso foge do escopo e não será explicado aqui. Instale o sistema operacional conforme descrito nos passos a seguir e depois opte ou não pelas [Configurações Recomendadas](#rec_conf) e [Aplicativos](#aplicativos).
 
