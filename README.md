@@ -15,8 +15,7 @@ A menos que seja especificado o contrário, os blocos de código mostrados neste
 | Desktop | [Gnome Desktop](https://www.gnome.org) | - | [Dash to Dock](https://micheleg.github.io/dash-to-dock/); [Pop Shell](https://github.com/pop-os/shell) | 
 
 # Instalando o Sistema Operacional
-
-As etapas de [Personalização do Sistema](#per_sis) pressupõem que o sistema operacional instalado é o [Endeavour OS](https://endeavouros.com) com [Gnome Desktop](https://www.gnome.org). Estas etapas _podem_ funcionar com instalações diferentes, porém isso foge do escopo e não será explicado aqui. Instale o sistema operacional conforme descrito nos passos a seguir e depois opte ou não pelas [Configurações Recomendadas](#rec_conf) e [Aplicativos](#aplicativos).
+O sistema operacional a ser instalado é o [Endeavour OS](https://endeavouros.com) com [Gnome Desktop](https://www.gnome.org) e o restante do guia pressupõe que o ambiente seja esse. as etapas de [Personalização do Sistema](#per_sis) _podem_ funcionar com instalações diferentes, porém isso foge do escopo e não será explicado aqui. Instale o sistema operacional conforme descrito nos passos a seguir e depois opte ou não pelas [Configurações Recomendadas](#rec_conf) e [Aplicativos](#aplicativos).
 
 1. Baixe o _.iso_ no site [Endeavour OS](endeavouros.com) e crie uma mídia de instalação. Recomenda-se que a autenticidade do arquivo seja verificada através da [assinatura GPG](https://www.gnupg.org/gph/en/manual/x135.html) conforme instruções do site.
 
