@@ -96,13 +96,13 @@ O uso ou não dos seguintes aplicativos varia conforme preferência do usuário 
 
 ### Apps instalados pelo Pacman
 
-| Nome do App                 | Comando para instalação com pacman              |
-|-----------------------------| ---                                             |
-| Slack Desktop               | yay -S slack-desktop                            |
-| Steam                       | sudo pacman -S steam                            |
-| Opera Browser               | yay -S opera                                    |
-| Okular                      | sudo pacman -S okular                           |
-| Remmina (com protocolo RPD) | sudo pacman -S freerdp ; sudo pacman -S remmina |
+| Nome do App                 | Comando para instalação com pacman |
+|-----------------------------|------------------------------------|
+| Slack Desktop               | yay -S slack-desktop               |
+| Steam                       | sudo pacman -S steam               |
+| Opera Browser               | yay -S opera                       |
+| Okular                      | sudo pacman -S okular              |
+| Remmina (com protocolo RPD) | sudo pacman -S freerdp remmina     |
 
 ### Apps que não instalados pelo pacman
 
