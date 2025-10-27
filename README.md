@@ -100,7 +100,7 @@ O uso ou não dos seguintes aplicativos varia conforme preferência do usuário 
 |-----------------------------|------------------------------------|
 | Slack Desktop               | yay -S slack-desktop               |
 | Steam                       | sudo pacman -S steam               |
-| Opera Browser               | yay -S opera                       |
+| Vivaldi                     | sudo pacman -S Vivaldi             |
 | Okular                      | sudo pacman -S okular              |
 | Remmina (com protocolo RPD) | sudo pacman -S freerdp remmina     |
 
